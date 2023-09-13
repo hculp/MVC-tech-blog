@@ -1,0 +1,22 @@
+[
+    {
+        "comment_text": "This is a comment",
+        "post_id": 1,
+        "user_id": 1
+    },
+    {
+        "comment_text": "This is another comment",
+        "post_id": 1,
+        "user_id": 2
+    },
+    {
+        "comment_text": "This is a third comment",
+        "post_id": 2,
+        "user_id": 1
+    },
+    {
+        "comment_text": "This is a fourth comment",
+        "post_id": 1,
+        "user_id": 3
+    }
+]

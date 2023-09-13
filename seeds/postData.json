@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Awesome stuff",
+        "content": "This is some awesome stuff",
+        "user_id": "1"
+    },
+    {
+        "title": "Awesome stuff",
+        "content": "This is some awesome stuff",
+        "user_id": "2"
+    },
+    {
+        "title": "Awesome stuff",
+        "content": "This is some awesome stuff",
+        "user_id": "3"
+    }
+]
